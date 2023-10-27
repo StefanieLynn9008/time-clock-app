@@ -1,15 +1,21 @@
 body {
-  background-color: #f9f7fe;
+  background-color: #e2e0e0;
   font-family: sans-serif;
+  color: #fff;
 }
 
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background: #fff;
   padding: 30px;
   box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.4);
   border-radius: 10px;
+  background-color: ;
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(148, 241, 246) 0%,
+    rgb(148, 189, 246) 100.7%
+  );
 }
 
 .city {
