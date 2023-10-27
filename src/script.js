@@ -1,1 +1,1 @@
-alert("Hello! Bonjour! Hola!");
+
